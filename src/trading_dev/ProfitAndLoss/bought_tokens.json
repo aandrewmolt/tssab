@@ -1,0 +1,13 @@
+{
+  "tokens": [],
+  "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
+    "entry_price": "1.0732361283096241814e-7",
+    "tp_price": "1.1805597411405865995e-7",
+    "sl_price": "8.5858890264769934512e-8",
+    "exit_price": 0,
+    "poolId": "HVNwzt7Pxfu76KHCMQPTLuTCLTm6WnQ1esLv4eizseSv",
+    "number_of_sol_in_pool": "371.278927612",
+    "market_cap": 2155848359.7733397,
+    "sol_per_order": "0.00001"
+  }
+}
