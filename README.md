@@ -1,5 +1,4 @@
-# TSSAB - Trading System for Solana Automated Bot
-
+# TSSAB - T
 A comprehensive trading system for automated trading on the Solana blockchain.
 
 ## Features
